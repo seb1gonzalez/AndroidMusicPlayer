@@ -1,4 +1,4 @@
-/**@author Sebastian Gonzalez yolo*/
+/**@author Sebastian Gonzalez*/
 
 package edu.utep.cs.cs4330.mymusicplayer;
 
